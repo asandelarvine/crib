@@ -62,6 +62,7 @@ html, body{
     height:100%;
     font-size:25px;
     color: black;
+    padding-left: 20px;
 }
 #bottombar #leftside h2{
     color:goldenrod;
@@ -129,6 +130,7 @@ html, cbody{
     font-size:25px;
     font-style:oblique;
 }
+
 #form{
     text-align: center;
     background-color:blueviolet;
